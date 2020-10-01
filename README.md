@@ -17,7 +17,7 @@ Once your first PR is merged, we have a bot that helps out by automatically merg
 
 When you believe your KIP is mature and ready to progress past the draft phase, you should do the following:
 
- - Open a PR changing the state of your KIP to 'Last Call'. An editor will review your draft and see if there is a rough consensus to move forward. If there are significant issues with the KIP - they may close the PR and request that you fix the issues in the draft before trying again.
+ - Open a PR changing the state of your KIP to 'Last Call'. An editor will review your draft and see if there is a rough consensus to move forward. If there are significant issues with the KIP - they may close the PR and request that you fixed the issues in the draft before trying again.
  - Before moving to 'Last Call', a reference implementation of the KIP should be provided. 
 
 ## KIP Status Terms
