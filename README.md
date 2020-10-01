@@ -1,6 +1,6 @@
 ## Klaytn Improvement Proposals (KIPs)
 
-Klaytn Improvement Proposals (KIPs) describe standards for the Klaytn platform, including core protocol specifications, client APIs, and contract standards.
+Klaytn Improvement Proposals (KIPs) describes standards for the Klaytn platform, including core protocol specifications, client APIs, and contract standards.
 
 ## Contributing
 
